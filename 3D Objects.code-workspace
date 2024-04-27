@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "3D Objects",
+			"path": "."
+		},
+		{
+			"name": "css",
+			"path": "../Downloads/xofram/__MACOSX/xofram/css"
+		},
+		{
+			"name": "images",
+			"path": "../Downloads/xofram/__MACOSX/xofram/images"
+		},
+		{
+			"name": "js",
+			"path": "../Downloads/xofram/__MACOSX/xofram/js"
+		},
+		{
+			"name": "xofram",
+			"path": "../Downloads/xofram/xofram"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3D Objects"
+	}
+}
